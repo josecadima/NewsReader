@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AgileDev>
+  <Message Key="UI_CANCEL" Text="Cancelar"/>
+  <Message Key="UI_FILTERS" Text="Filtros"/>
+  <Message Key="UI_HELP" Text="Ayuda"/>
+  <Message Key="UI_OK" Text="Aceptar"/>
+  <Message Key="UI_ACTION_LOAD_DATA" Text="Cargando datos"/>
+  <Message Key="UI_ACTION_REFRESH_DATA" Text="Actualizando datos"/>
+</AgileDev>
